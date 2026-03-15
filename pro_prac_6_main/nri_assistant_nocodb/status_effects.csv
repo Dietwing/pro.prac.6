@@ -1,4 +1,0 @@
-﻿id,participant_id,effect_name,effect_type,duration_rounds,source,description,is_active
-1,2,Concentration,buff,2,Protective Spell,The participant maintains spell concentration.,True
-2,1,Battle Focus,buff,1,Class Ability,A short combat bonus that lasts until the next round.,False
-3,3,Defeated,state,0,Combat Result,The participant can no longer take actions.,False

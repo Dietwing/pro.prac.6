@@ -1,4 +1,0 @@
-﻿id,action_id,actor_type,actor_id,dice_formula,modifier,result,roll_purpose,created_at
-1,1,player_character,1,1d20+4,4,18,attack_roll,2026-03-13 18:42
-2,2,player_character,2,1d20+5,5,16,spell_attack,2026-03-13 18:44
-3,3,npc,2,1d20+2,2,9,attack_roll,2026-03-13 18:45

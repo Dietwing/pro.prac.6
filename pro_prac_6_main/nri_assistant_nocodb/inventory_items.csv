@@ -1,4 +1,0 @@
-﻿id,character_id,item_name,item_type,quantity,weight,notes
-1,1,Longsword,weapon,1,3.0,Main melee weapon.
-2,1,Healing Potion,consumable,2,0.4,Restores health when used.
-3,2,Spellbook,equipment,1,1.2,Contains prepared spells and notes.

@@ -1,4 +1,0 @@
-﻿id,login,role,display_name,email,created_at,status
-1,gm_mikhail,game_master,Mikhail Pavlov,gm@example.com,2026-03-01,active
-2,player_alex,player,Alex Orlov,alex@example.com,2026-03-02,active
-3,player_irina,player,Irina Belova,irina@example.com,2026-03-02,active

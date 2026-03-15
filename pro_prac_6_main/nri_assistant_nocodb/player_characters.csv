@@ -1,4 +1,0 @@
-﻿id,campaign_id,owner_user_id,name,race,character_class,level,max_hp,current_hp,mana,strength,dexterity,intelligence,notes
-1,1,2,Alden,Human,Warrior,3,28,21,5,16,12,9,Former city guard focused on melee combat.
-2,1,3,Liara,Elf,Mage,3,18,15,24,8,14,17,Uses fire and protective spells.
-3,2,2,Corvin,Half-Elf,Ranger,2,22,22,8,11,15,12,Scout experienced in exploration.
