@@ -1,0 +1,4 @@
+﻿id,login,role,display_name,email,created_at,status
+1,gm_mikhail,Гейммастер,Михаил Павлов,gm@example.com,2026-03-01,Активен
+2,player_alex,Игрок,Алексей Орлов,alex@example.com,2026-03-02,Активен
+3,player_irina,Игрок,Ирина Белова,irina@example.com,2026-03-02,Активен
