@@ -1,0 +1,4 @@
+﻿id,encounter_id,entity_type,entity_id,initiative,current_hp,temporary_hp,is_active,status_summary
+1,1,player_character,1,14,21,0,True,ready
+2,1,player_character,2,11,15,0,True,concentrating
+3,1,npc,2,9,0,0,False,defeated

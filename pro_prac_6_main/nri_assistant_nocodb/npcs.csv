@@ -1,0 +1,4 @@
+﻿id,campaign_id,name,npc_role,max_hp,current_hp,armor_class,initiative_bonus,notes
+1,1,Magistrate Helm,ally,20,20,10,0,City leader who provides the first quest.
+2,1,Tower Watcher,enemy,14,0,12,2,An armed guardian defending the ruined entrance.
+3,2,Guide Marek,ally,16,16,11,1,Helps the group move through the frontier road.

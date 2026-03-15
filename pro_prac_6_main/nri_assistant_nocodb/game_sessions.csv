@@ -1,0 +1,4 @@
+﻿id,campaign_id,session_number,session_date,title,summary,status
+1,1,1,2026-03-06,Arrival in Evermere,"The party reached the city, met the magistrate and gathered first clues.",completed
+2,1,2,2026-03-13,Secrets of the Old Tower,The party explored the tower ruins and entered a combat encounter.,completed
+3,2,1,2026-03-15,Road to the Frontier,"Preparation for travel, supplies and route planning.",scheduled

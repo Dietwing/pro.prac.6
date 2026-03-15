@@ -1,0 +1,4 @@
+﻿id,campaign_id,session_id,related_type,related_id,title,text,created_at
+1,1,1,campaign,1,Campaign Tone,"The campaign combines exploration, ruins and political tension.",2026-03-05
+2,1,2,session,2,Hidden Door,The party discovered a concealed passage behind the altar.,2026-03-13
+3,1,2,player_character,2,Liara Goal,Liara searches for a lost family archive hidden in the tower.,2026-03-13
